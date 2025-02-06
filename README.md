@@ -1,12 +1,17 @@
 Brotato Auto Splitter
 =====================
-This auto splitter can be used with LiveSplit and version 1.1.8.1 of Brotato (only tested with the Steam build).
+This auto splitter can be used with LiveSplit and version 1.1.9.1 of Brotato (only tested with the Steam build).
 
 ## Features
 - Auto starting
 - Auto splitting once a new wave starts
 
-## Setup
+## Quick Setup
+This auto splitter is now available directly within LiveSplit. It can be enabled from the `Edit Splits` window.
+
+## Manual Setup
+If you want to manually setup the script, rather than using the copy delivered within LiveSplit itself:
+
 1. Download the latest version of `brotato.asl` from this repository
 2. Right click on LiveSplit and choose `Edit Layout...` to open the Layout Editor
 3. Click on the plus sign and choose `Scriptable Auto Splitter` from the section `Control`
